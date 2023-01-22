@@ -31,4 +31,6 @@ const naiveSearch = (st,pattern) =>
 
 ```js
 naiveSearch("catdogdogcat", "cat"); // 2
+naiveSearch("applebottomapple", "bot"); // 1
+naiveSearch("chairstairlair", "air"); // 3
 ```

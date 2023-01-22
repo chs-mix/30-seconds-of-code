@@ -39,4 +39,6 @@ const countingSort = (arr, x = arr.length) =>
 
 ```js
 countingSort([9,4,5,1]); // [1,4,5,9]
+countingSort([5,11,2,12,3]); // [2,3,5,11,12]
+countingSort([3,2,1,5]); // [1,2,3,5]
 ```
